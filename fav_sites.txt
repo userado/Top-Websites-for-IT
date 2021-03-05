@@ -1,0 +1,65 @@
+-----------------------------
+Programing 
+-----------------------------
+https://codepen.io/ - The best place to build, test, and discover front-end code.
+https://www.codewars.com/ - Codewars is where developers achieve code mastery through challenge.
+https://repl.it/ - free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.
+https://ipython.org/ - IPython provides a rich architecture for interactive computing
+https://hackr.io/blog/numpy-matrix-multiplication - Numpy Matrix Multiplication
+https://matplotlib.org/index.html - Matplotlib: Visualization with Python
+https://openai.com/ - Discovering and enacting the path to safe artificial general intelligence.
+https://realpython.com/face-recognition-with-python/ - Face Recognition with Python, in Under 25 Lines of Code
+https://pythonprogramminglanguage.com/ - Learn Python Programming 
+https://people.csail.mit.edu/madhu/FT01/ - Algorithmic Introduction to Coding Theory
+https://people.csail.mit.edu/madhu/FT02/Essential - Coding Theory 
+https://cplusplus.com/ - The C++ Resources Network
+https://cppsecrets.com/index.php - pro handbook
+https://en.cppreference.com/w/ - C++ reference
+
+-----------------------------
+HACKING/PENTESTING
+-----------------------------
+https://github.com/LuNiZz/siber-guvenlik-sss
+https://overthewire.org/wargames/bandit/bandit0.html
+https://www.hackerone.com/for-hackers/start-hacking
+https://academy.hackthebox.eu/
+https://hackthebox.eu/
+https://www.onworks.net/
+https://web.stanford.edu/class/cs253/
+https://threadreaderapp.com/thread/1343553657523085313.html
+https://hackerone.com/
+https://www.hacker101.com/resources
+
+-----------------------------
+Security/Cryptography
+-----------------------------
+hat.sh/ - file encryption
+https://kryptor.co.uk/downloads.html - Free open source file encryption software
+https://gitlab.com/cryptsetup/cryptsetup/ - A full disk encryption system for Linux
+https://www.dyne.org/software/tomb/ - File Encryption on GNU/Linux
+https://asciinema.org/ - Record and share your terminal sessions, the right way.
+https://cryptpad.fr/ - The Zero Knowledge Cloud
+https://gofile.io/uploadFiles - Upload Files 
+https://mega.nz/ - Upload Files 
+
+-----------------------------
+Education
+-----------------------------
+https://www.ieee.org/ - The world's largest technical professional organization for the advancement of technology
+https://ocw.mit.edu/ - MIT OpenCourseWare 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ - Electrical Engineering and Computer Science
+https://learn.adafruit.com/ - Adafruit Learning System
+https://www.khanacademy.org/ - Free Online Courses, Lessons & Practice
+https://www.w3schools.com/ - W3Schools Online Web Tutorials
+https://www.tutorialspoint.com/index.htm - best resource for Online Education
+https://pynative.com/ - Learn Python with Tutorials, Exercises, and Quizzes
+https://scipy-lectures.org/index.html# - One document to learn numerics, science, and data with Python
+https://www.guru99.com/python-matrix.html - Python Matrix: Transpose, Multiplication, NumPy Arrays Examples 
+https://www.fonerbooks.com/pcrepair.htm - Computer Repair with Diagnostic Flowcharts Third Edition - PDF Now Available
+
+
+
+
+
+
+
