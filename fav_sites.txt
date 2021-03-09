@@ -43,6 +43,17 @@ https://gofile.io/uploadFiles - Upload Files
 https://mega.nz/ - Upload Files 
 
 -----------------------------
+Communication
+-----------------------------
+https://keybase.io/ - Keybase is secure messaging and file-sharing.
+https://getsession.org/ - Send Messages, Not Metadata.
+https://signal.org/ - Speak Freely
+https://protonmail.com/- Secure Your Communications with ProtonMail
+https://tutanota.com/ - https://mailfence.com/
+https://mailfence.com/ - Secure and private email
+https://www.hushmail.com/
+
+-----------------------------
 Education
 -----------------------------
 https://www.ieee.org/ - The world's largest technical professional organization for the advancement of technology
