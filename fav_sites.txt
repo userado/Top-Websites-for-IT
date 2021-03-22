@@ -1,9 +1,11 @@
 -----------------------------
 Programing 
 -----------------------------
+https://codesandbox.io/ide - Code online with no setup in a powerful IDE that feels like it’s local.
 https://codepen.io/ - The best place to build, test, and discover front-end code.
-https://www.codewars.com/ - Codewars is where developers achieve code mastery through challenge.
 https://repl.it/ - free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.
+https://www.codewars.com/ - Codewars is where developers achieve code mastery through challenge.https://repl.it/ - free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.
+https://dotnetfiddle.net/ - online C# Compiler
 https://ipython.org/ - IPython provides a rich architecture for interactive computing
 https://hackr.io/blog/numpy-matrix-multiplication - Numpy Matrix Multiplication
 https://matplotlib.org/index.html - Matplotlib: Visualization with Python
@@ -15,7 +17,6 @@ https://people.csail.mit.edu/madhu/FT02/Essential - Coding Theory
 https://cplusplus.com/ - The C++ Resources Network
 https://cppsecrets.com/index.php - pro handbook
 https://en.cppreference.com/w/ - C++ reference
-
 -----------------------------
 HACKING/PENTESTING
 -----------------------------
@@ -29,7 +30,6 @@ https://web.stanford.edu/class/cs253/
 https://threadreaderapp.com/thread/1343553657523085313.html
 https://hackerone.com/
 https://www.hacker101.com/resources
-
 -----------------------------
 Security/Cryptography
 -----------------------------
@@ -39,9 +39,6 @@ https://gitlab.com/cryptsetup/cryptsetup/ - A full disk encryption system for Li
 https://www.dyne.org/software/tomb/ - File Encryption on GNU/Linux
 https://asciinema.org/ - Record and share your terminal sessions, the right way.
 https://cryptpad.fr/ - The Zero Knowledge Cloud
-https://gofile.io/uploadFiles - Upload Files 
-https://mega.nz/ - Upload Files 
-
 -----------------------------
 Communication
 -----------------------------
@@ -52,7 +49,6 @@ https://protonmail.com/- Secure Your Communications with ProtonMail
 https://tutanota.com/ - https://mailfence.com/
 https://mailfence.com/ - Secure and private email
 https://www.hushmail.com/
-
 -----------------------------
 Education
 -----------------------------
@@ -67,10 +63,12 @@ https://pynative.com/ - Learn Python with Tutorials, Exercises, and Quizzes
 https://scipy-lectures.org/index.html# - One document to learn numerics, science, and data with Python
 https://www.guru99.com/python-matrix.html - Python Matrix: Transpose, Multiplication, NumPy Arrays Examples 
 https://www.fonerbooks.com/pcrepair.htm - Computer Repair with Diagnostic Flowcharts Third Edition - PDF Now Available
-
-
-
-
-
-
-
+-----------------------------
+Cloud and File sharing
+-----------------------------
+https://gofile.io/uploadFiles - Upload Files 
+https://mega.nz/ - Upload Files
+https://www.digitalocean.com/
+https://nextcloud.com/
+https://owncloud.com/
+https://slate.host/ - Slate is an open source storage system built on top of Filecoin.
