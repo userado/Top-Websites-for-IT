@@ -72,3 +72,14 @@ https://www.digitalocean.com/
 https://nextcloud.com/
 https://owncloud.com/
 https://slate.host/ - Slate is an open source storage system built on top of Filecoin.
+https://upload.disroot.org/ - Lufi - Disroot file uploader
+-----------------------------
+Privacy and Freedom
+-----------------------------
+https://disroot.org/en - Disroot is a platform providing online services based on principles of freedom, privacy, federation and decentralization.
+https://mailinabox.email/ - Take back control of your email with this easy-to-deploy mail server in a box.
+https://mailcow.email/ - The mailserver suite with the 'moo'
+https://www.privacytools.io/ - Encryption Against Global Mass SurveillanceEncryption Against Global Mass Surveillance
+https://privacyinternational.org/ - Privacy International (PI) is a registered charity based in London that works at the intersection of modern technologies and rights.
+https://www.torproject.org/ - Browse Privately. Explore Freely.
+https://freedom.press/ - Freedom of the Press Foundation
