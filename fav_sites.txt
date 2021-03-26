@@ -72,6 +72,8 @@ https://www.digitalocean.com/
 https://nextcloud.com/
 https://owncloud.com/
 https://slate.host/ - Slate is an open source storage system built on top of Filecoin.
+https://app.files.chainsafe.io/
+https://space.storage/
 https://upload.disroot.org/ - Lufi - Disroot file uploader
 -----------------------------
 Privacy and Freedom
