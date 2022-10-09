@@ -17,6 +17,15 @@ https://people.csail.mit.edu/madhu/FT02/Essential - Coding Theory
 https://cplusplus.com/ - The C++ Resources Network
 https://cppsecrets.com/index.php - pro handbook
 https://en.cppreference.com/w/ - C++ reference
+https://guide.bash.academy/
+https://www.wikitjerrta4qgz4.onion/
+https://learn.go.dev/
+https://nim-lang.org/learn.html
+https://www.learn-c.org
+https://www.learn-cpp.org/
+https://nodejs.dev/learn
+https://docs.oracle.com/javase
+https://www.learn-cpp.org/
 -----------------------------
 HACKING/PENTESTING
 -----------------------------
@@ -85,3 +94,5 @@ https://www.privacytools.io/ - Encryption Against Global Mass SurveillanceEncryp
 https://privacyinternational.org/ - Privacy International (PI) is a registered charity based in London that works at the intersection of modern technologies and rights.
 https://www.torproject.org/ - Browse Privately. Explore Freely.
 https://freedom.press/ - Freedom of the Press Foundation
+https://emailselfdefense.fsf.org/
+https://gnupg.org/documentation/howtos.html
